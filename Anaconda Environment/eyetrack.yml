@@ -27,4 +27,4 @@ dependencies:
     - numpy==1.14.5
     - opencv-python==3.4.2.17
     - pyrealsense2==2.22.0.864
-prefix: C:\Users\sasat\anaconda3\envs\eyetrack
+prefix: C:\Users\\anaconda3\envs\eyetrack
